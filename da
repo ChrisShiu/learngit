@@ -1,0 +1,72 @@
+[33mcommit 3dab5283ef6645e6a46c7ce972c33e7178a3bbe2[m
+Merge: fd002f0 6756c2b
+Author: ChrisShiu <Leaptosora@gmail.com>
+Date:   Mon Aug 22 11:18:52 2016 +0800
+
+    conflict fixed
+
+[33mcommit fd002f0478808b978e8c1aec610cb443dc9ae3ae[m
+Author: ChrisShiu <Leaptosora@gmail.com>
+Date:   Mon Aug 22 11:11:29 2016 +0800
+
+    & simple
+
+[33mcommit 6756c2b5a0d31fd970eb82ecd553807f24ca9929[m
+Author: ChrisShiu <Leaptosora@gmail.com>
+Date:   Mon Aug 22 11:09:20 2016 +0800
+
+    AND simple
+
+[33mcommit 7aea632e07cf0774c72e41dcc464ce2779aa1092[m
+Author: ChrisShiu <Leaptosora@gmail.com>
+Date:   Mon Aug 22 11:06:58 2016 +0800
+
+    mistakes
+
+[33mcommit f83ab150e3d021a4ce19c875e4a857bf4690d3c2[m
+Author: ChrisShiu <Leaptosora@gmail.com>
+Date:   Mon Aug 22 10:56:03 2016 +0800
+
+    branch test
+
+[33mcommit 4942f734d46ee129f839f67cbbf2200b4ca13326[m
+Author: ChrisShiu <Leaptosora@gmail.com>
+Date:   Sun Aug 21 15:34:37 2016 +0800
+
+    remove test.txt
+
+[33mcommit 0caea52f3d62e3d5a64e45306b75c7ff7de31a28[m
+Author: ChrisShiu <Leaptosora@gmail.com>
+Date:   Sun Aug 21 15:29:05 2016 +0800
+
+    add test.txt
+
+[33mcommit 0176292ff4fd48d966fb93cb5d48e93691da1365[m
+Author: ChrisShiu <Leaptosora@gmail.com>
+Date:   Sun Aug 21 14:57:55 2016 +0800
+
+    git tracks changes
+
+[33mcommit e17b094bedf4b072242f9a9a9394ab00ae8cca9a[m
+Author: ChrisShiu <Leaptosora@gmail.com>
+Date:   Sun Aug 21 14:53:38 2016 +0800
+
+    understand how stage works
+
+[33mcommit 515bfab53017f353bd1c024cd943f3bf77cc8ed0[m
+Author: ChrisShiu <Leaptosora@gmail.com>
+Date:   Sun Aug 21 14:32:22 2016 +0800
+
+    append GPL
+
+[33mcommit 1594443d809c8f12c786cdf82eb27512039896d2[m
+Author: ChrisShiu <Leaptosora@gmail.com>
+Date:   Sun Aug 21 12:46:20 2016 +0800
+
+    add distributed
+
+[33mcommit 5208092209c36fc55326509f5fd028a3b6127558[m
+Author: ChrisShiu <Leaptosora@gmail.com>
+Date:   Sun Aug 21 12:38:33 2016 +0800
+
+    wrote a readme file
